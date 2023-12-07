@@ -1,0 +1,17 @@
+<resources>
+
+    <style name="Base.Theme.StoryApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="textFillColor">@color/black</item>
+        <item name="colorPrimary">@color/orange</item>
+
+    </style>
+
+    <style name="action_bar" parent="Theme.Material3.DayNight">
+        <item name="backgroundColor">@color/orange</item>
+        <item name="colorPrimary">@color/orange</item>
+        <item name="titleTextColor">@color/white</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+
+
+</resources>

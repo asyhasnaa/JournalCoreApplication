@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <issue id="IconLocation">
+        <ignore path="D:/Intermediate/Bismillah/baru/bekap/StoryAppSubmission/app/src/main/res/drawable/img_cover.jpg" />
+        <ignore path="D:/Intermediate/Bismillah/baru/bekap/StoryAppSubmission/app/src/main/res/drawable/img_cover.jpg" />
+        <ignore path="D:/Intermediate/Bismillah/baru/bekap/StoryAppSubmission/app/src/main/res/drawable/img_cover.jpg" />
+        <ignore path="D:/Intermediate/Bismillah/baru/bekap/StoryAppSubmission/app/src/main/res/drawable/img_cover.jpg" />
+        <ignore path="D:/Intermediate/Bismillah/baru/bekap/StoryAppSubmission/app/src/main/res/drawable/img_cover2.jpg" />
+        <ignore path="D:/Intermediate/Bismillah/baru/bekap/StoryAppSubmission/app/src/main/res/drawable/img_logo.png" />
+        <ignore path="D:/Intermediate/Bismillah/baru/bekap/StoryAppSubmission/app/src/main/res/drawable/img_logo2.png" />
+    </issue>
+</lint>
